@@ -1,0 +1,5 @@
+
+ethex:
+  build: .
+  volumes:
+    - ./:/project
